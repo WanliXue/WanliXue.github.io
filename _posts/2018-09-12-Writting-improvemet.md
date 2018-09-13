@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Writing Note"
+title: "Writing CS improvement"
 date: 2018-09-12
 ---
 
 
-# writing improvement for CS paper (shared by Wen)
+##### writing improvement for CS paper (shared by Wen)
 
 1. Be consistent in your writing style
 2. Make definite assertions. Avoid tame, colorless, hesitating,
@@ -16,4 +16,4 @@ can, besides, a lot
 5. How to cite.
 
 
-### originally from [this](http://www.cs.toronto.edu/~miller/Research/writing.html)
+##### originally from [this](http://www.cs.toronto.edu/~miller/Research/writing.html)
