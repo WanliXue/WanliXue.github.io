@@ -16,4 +16,4 @@ can, besides, a lot
 5. How to cite.
 
 
-### originally from http://www.cs.toronto.edu/~miller/Research/writing.html
+### originally from [this](http://www.cs.toronto.edu/~miller/Research/writing.html)
