@@ -22,7 +22,7 @@ date: 2018-09-13
 
 
 
-##### leave for future (dpbf)
-###### draw a bf figure?
+**leave for future (dpbf)**
+draw a bf figure?
 
-###### use better privacy metric?
+use better privacy metric?
