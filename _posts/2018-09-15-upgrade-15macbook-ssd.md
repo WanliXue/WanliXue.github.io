@@ -9,10 +9,11 @@ however the interface seems not compatible with normal SATA interface (M2?)
 Apple use a customized ssd interface design, so most of SSD even M2 cannot be directly used on this mac.
 Most ssd has NVMe M.2 PCIe standard interface but different interface to Apple's.
 
-image
-![](../../images/ssd_interface.jpg)
 
-<img src="../../images/ssd_interface.jpg">
+![ssd_interface](https://user-images.githubusercontent.com/3467118/45581785-22c41780-b8e8-11e8-9e6a-bc497ec79bfb.jpg)
+
+
+
 
 There is two possible solutions.
 
