@@ -29,6 +29,6 @@ There is two possible solutions.
 -----------------------
 
 After a re-research during weekend, I decided to do the DIY plan instead of OWC plan,
-the statements which support me is from [macrumours](https://forums.macrumors.com/threads/upgrading-2013-2014-macbook-pro-ssd-to-m-2-nvme.2034976/page-6#post-25121383).
+the statements which support me is from [macrumours](https://forums.macrumors.com/threads/upgrading-2013-2014-macbook-pro-ssd-to-m-2-nvme.2034976/page-64#post-26210298).
 
 And I almost decide to make the order about the adapter mentioned above from [here](http://eshop.sintech.cn/ngff-m2-pcie-ssd-card-as-2013-2014-2015-macbook-ssd-p-1143.html)
