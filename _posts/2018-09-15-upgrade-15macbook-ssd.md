@@ -26,6 +26,7 @@ There is two possible solutions.
 
 
 #### updated 17 Sep
+-----------------------
 
 After a re-research during weekend, I decided to do the DIY plan instead of OWC plan,
 the statements which support me is from [macrumours](https://forums.macrumors.com/threads/upgrading-2013-2014-macbook-pro-ssd-to-m-2-nvme.2034976/page-6#post-25121383).
