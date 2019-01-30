@@ -13,7 +13,7 @@ L the column length of dictionary (dont have to) N
 
 looks like simple trach and me use 1e0 / 1e15 larger one but not small one 1e-9
 
-'''
+```
 ————— used in my project to train GPS
 if exist('limit','var') == 0, limit = 8; end;
 
@@ -41,7 +41,7 @@ Psi = mexTrainDL(X, param);
 
 Psi = full(Psi);
 
-'''
+```
 
 
 ———————————
