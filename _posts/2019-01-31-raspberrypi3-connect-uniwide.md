@@ -45,6 +45,7 @@ adding:
 The original documents use[1]
 
     sudo /etc/init.d/networking restart
+    
 to reboot the network service, howerver, I failed, so I just reboot.
 
 
