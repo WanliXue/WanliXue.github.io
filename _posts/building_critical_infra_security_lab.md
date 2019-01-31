@@ -73,8 +73,3 @@ Cyberattack Events](http://gridgame.ironforidaho.net/downloads/ResWeek_2017_ECE_
 [6].Y. Liu, P. Ning , and M. Reiter, “False Data Injection Attacks against State Estimation in Electric Power Grids,” ACM Trans on Information and System Security, Vol. 14, May 2011.
 
 
-
-
----
-## 
-Identify economic models for Internet Service Providers (ISPs) to deploy a pricing infrastructure. For example, ISPs could offer guaranteed-bandwidth paths with a higher cost than best-effort paths. How can prices be determined? How quickly is pricing information disseminated? How can we avoid oscillations or fluctuations of flows? This multi-faceted problem space offers many interesting practical and theoretical challenges.
