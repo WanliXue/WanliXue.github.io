@@ -1,9 +1,5 @@
 
----
-layout: post
-title: "Multidisciplinary lab with Cybersecurity"
-date: 2019-01-31
----
+
 
 # Key notes from [Multidisciplinary Experiential Learning](https://sites.temple.edu/care/mel_pubs/)
 
