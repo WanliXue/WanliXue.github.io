@@ -3,6 +3,8 @@ Comprehensive Python Cheatsheet
 <sup>[Download text file](https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md), [Fork me on GitHub](https://github.com/gto76/python-cheatsheet) or [Check out FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions).
 </sup>
 
+raw repository is from https://gto76.github.io/python-cheatsheet/. I just tried to add to my homepage for convenice. Again, the repository is forked from https://gto76.github.io/.
+
 ![Monty Python](web/image_888.jpeg)
 
 
